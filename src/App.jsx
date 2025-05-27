@@ -1,6 +1,5 @@
 import React, { useState } from "react";
-import "./app.css";
-
+import "./ExpenseTracker.css";
 export default function app() {
   const [expenses, setExpenses] = useState([]);
   const [description, setDescription] = useState("");
