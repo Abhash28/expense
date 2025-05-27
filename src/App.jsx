@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./ExpenseTracker.css";
-export default function app() {
+function App() {
   const [expenses, setExpenses] = useState([]);
   const [description, setDescription] = useState("");
   const [category, setCategory] = useState("");
@@ -85,3 +85,4 @@ export default function app() {
     </div>
   );
 }
+export default App;
