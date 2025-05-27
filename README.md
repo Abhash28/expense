@@ -1,12 +1,32 @@
-# React + Vite
+# Live Link https://expense-xumj.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Expense Tracker
 
-Currently, two official plugins are available:
+A simple and elegant React-based Expense Tracker app that allows users to add and track their daily expenses by description, category, and amount.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Add expenses with description, category, and amount.
+- Dynamic expense list with a summary table.
+- Input validation to ensure correct data entry.
+- Responsive and clean UI design.
+- Built with React functional components and hooks.
+
+---
+
+## Demo
+
+![Demo Screenshot](./screenshot.png)  
+*(Add a screenshot of your app here if available)*
+
+---
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/expense-tracker.git
+   cd expense-tracker
