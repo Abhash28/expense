@@ -15,12 +15,7 @@ A simple and elegant React-based Expense Tracker app that allows users to add an
 
 ---
 
-## Demo
 
-![Demo Screenshot](./screenshot.png)  
-*(Add a screenshot of your app here if available)*
-
----
 
 ## Installation
 
